@@ -1,0 +1,29 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Samuel-Hopkins-Adams_57676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Samuel Hopkins
+    alias: Fabian, Warner
+    birthdate: 1871
+    deathdate: 1958
+    gutenberg_agent_id: '1635'
+    url: http://www.gutenberg.org/2009/agents/1635
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Hopkins_Adams
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Samuel Hopkins Adams
+url: http://www.gutenberg.org/ebooks/57676
